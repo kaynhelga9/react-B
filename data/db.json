@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": 1,
+      "checked": true,
+      "item": "bread"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "milk"
+    },
+    {
       "id": 3,
       "checked": false,
       "item": "corn"
@@ -9,11 +19,6 @@
       "id": 4,
       "checked": false,
       "item": "beef"
-    },
-    {
-      "id": 5,
-      "checked": false,
-      "item": "milk"
     }
   ]
 }

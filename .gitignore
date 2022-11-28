@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-/data
+data/db.json
 
 # production
 /build
